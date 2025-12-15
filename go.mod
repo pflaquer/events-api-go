@@ -3,7 +3,7 @@ module github.com
 go 1.21.5
 
 require (
-	https://github.com/gin-gonic/gin
+	https://github.com/gin-gonic/gin v1.11.0
 )
 
 require (
